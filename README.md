@@ -15,9 +15,9 @@
 <li bgcolor="red">Facebook</li>
 <li bgcolor="red">Telegram</li>
 </ul><br>
-<a href="https://www.google.com" target="blank> <button>Google link</button></a><br>
-<a href="https://www.instagram.com"target="blank > <button>Instagram link</button></a><br>
-<a href="https://www.Facebook" target="blank"> <button>Facebook link</button></a><br>
-<a href="https://web.telegram.org" target="blank"> <button>Telegram link</button></a><br>
+<a href="https://www.google.com" target="blank> <button>Google link</button></a>
+<a href="https://www.instagram.com" target="blank > <button>Instagram link</button></a>
+<a href="https://www.Facebook" target="blank"> <button>Facebook link</button></a>
+<a href="https://web.telegram.org" target="blank"> <button>Telegram link</button></a>
 </body>
 </html>
