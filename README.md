@@ -1,4 +1,3 @@
-<!-- or--> link-modela
 <!DOCTYPE html>
 <html>
 <head> 
@@ -10,14 +9,14 @@
 <p><i>This is my first coding in GitHub so,it is very basics of html codes to consists of varies links</i> </p>
 <hr width="45px"/>
 <ul>
-<li bgcolor="red">Google</li>
-<li bgcolor="red">Instagram</li>
-<li bgcolor="red">Facebook</li>
-<li bgcolor="red">Telegram</li>
+<li style="color:red">Google</li>
+<li style="color:red">Instagram</li>
+<li style="color:red">Facebook</li>
+<li style="color:red">Telegram</li>
 </ul><br>
-<a href="https://www.google.com" target="blank> <button>Google link</button></a>
-<a href="https://www.instagram.com" target="blank > <button>Instagram link</button></a>
-<a href="https://www.Facebook" target="blank"> <button>Facebook link</button></a>
-<a href="https://web.telegram.org" target="blank"> <button>Telegram link</button></a>
+<a href="https://www.google.com" target="blank"> <button>Google link</button></a><br>
+<a href="https://www.instagram.com" target="blank" > <button>Instagram link</button></a><br>
+<a href="https://www.Facebook" target="blank"> <button>Facebook link</button></a><br>
+<a href="https://web.telegram.org" target="blank"> <button>Telegram link</button></a><br>
 </body>
 </html>
